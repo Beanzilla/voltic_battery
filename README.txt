@@ -1,13 +1,9 @@
 # Voltic Battery
 
-A Voltic Battery is able to produce a small amount of charge on it's own, without anything except the standard stuff (requires a Switch Station).
+Voltic Batteries are essentially the mix of a small bioreactor and a battery.
 
-## Required
+Thus it produces a small but continuous amount of power. (Or commonly also known as free energy)
 
-All you really need is technic, though I do have support (just like technic does) for digilines.
+The Bioreactor is simply a device that produces more free energy.
 
-## Why
-
-So I was thinking of something to add to technic, just as a fun extra to include... and here this mod is.
-
-The point of this is so you could build a quick base to do things like charge your tools or to power something that doesn't eat the power quickly.
+But is fairly expensive in terms of construction.

@@ -20,18 +20,18 @@ dofile(path.."/hv.lua")
 
 --[[ Stats:
     LV:
-        Max:       38,000 (38 k)
+        Max:       26,000 (26 k)
         Input:     1,500  (1.5k)
         Output:    4,500  (4.5k)
-        Generates: 380
+        Generates: 26
     MV:
-        Max:       170,000 (170 k)
+        Max:       130,000 (130 k)
         Input:     20,500  (20.5k)
         Output:    80,500  (80.5k)
-        Generates: 1,700   (1.5 k)
+        Generates: 130
     HV:
-        Max:       980,000 (980  k)
+        Max:       650,000 (650  k)
         Input:     100,500 (100.5k)
         Output:    400,500 (400.5k)
-        Generates: 9,800   (9.8  k)
+        Generates: 650
 --]]
