@@ -23,15 +23,15 @@ dofile(path.."/hv.lua")
         Max:       26,000 (26 k)
         Input:     1,500  (1.5k)
         Output:    4,500  (4.5k)
-        Generates: 26
+        Generates: 65
     MV:
         Max:       130,000 (130 k)
         Input:     20,500  (20.5k)
         Output:    80,500  (80.5k)
-        Generates: 130
+        Generates: 325
     HV:
         Max:       650,000 (650  k)
         Input:     100,500 (100.5k)
         Output:    400,500 (400.5k)
-        Generates: 650
+        Generates: 1,625   (1.625k)
 --]]
