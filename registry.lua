@@ -213,7 +213,7 @@ function tech.register_battery_box2(data)
 
 		-- Changed textures so they look different so a user doesn't need the info in the hud
 		local top_tex = "voltic_battery_"..ltier.."_battery_box_top.png"..tube_entry
-		local front_tex = "technic_"..ltier.."_battery_box_front.png^technic_power_meter"..i..".png"
+		local front_tex = "voltic_battery_"..ltier.."_battery_box_front.png^technic_power_meter"..i..".png"
 		local side_tex = "voltic_battery_"..ltier.."_battery_box_side.png"..tube_entry
 		local bottom_tex = "voltic_battery_"..ltier.."_battery_box_bottom.png"..cable_entry
 
